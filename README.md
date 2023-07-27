@@ -23,8 +23,7 @@ Welcome to the Hangman Game, a nostalgic and captivating JavaScript game that ta
 <br> Ready to relive the thrill of the classic Hangman Game from your childhood? Play now and see if you can outsmart the hangman! 🏆
 
 
-<br>  🔗 Play the Game: [Link to the live game]
+<br>  🔗 Play the Game: https://shinaylim.github.io/Hangman-Game/
 <br>  📝 This code was a tutorial from: https://codingartistweb.com/
-<br>  🐞 Report Issues / Contribute: [Link to the GitHub repository]
 
 #hangmangame #javascriptgame #wordguessing #childhoodmemories #opensource
