@@ -11,9 +11,6 @@ Welcome to the Hangman Game, a nostalgic and captivating JavaScript game that ta
 **💡 Educational and Entertaining:**
 <br> Hangman Game isn't just fun; it's educational too! Sharpen your mind, improve your spelling, and expand your vocabulary while having a blast. It's an ideal game for players of all ages, whether you're a word wizard or just getting started.
 
-**⏰ Race Against the Clock (Optional):**
-<br> Feeling competitive? Toggle on the time mode and challenge yourself to guess the word within a time limit. Race against the clock, beat your best time, and set new records!
-
 **🌐 Play Anywhere, Anytime:**
 <br> The Hangman Game is built using pure JavaScript, HTML, and CSS, making it easily accessible on any modern web browser. Play on your desktop, laptop, tablet, or even your smartphone - the hangman adventure awaits you!
 
@@ -24,6 +21,6 @@ Welcome to the Hangman Game, a nostalgic and captivating JavaScript game that ta
 
 
 <br>  🔗 Play the Game: https://shinaylim.github.io/Hangman-Game/
-<br>  📝 This code was a tutorial from: https://codingartistweb.com/
+<br>  📝 This code was innovated from: https://codingartistweb.com/
 
 #hangmangame #javascriptgame #wordguessing #childhoodmemories #opensource
